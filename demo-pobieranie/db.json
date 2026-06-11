@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Wojciech Suchodolski"
+    },
+    {
+      "id": "2",
+      "name": "Karol Wojtyła"
+    },
+    {
+      "name": "Anne Frank",
+      "id": "8k2AgMZJyaM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
