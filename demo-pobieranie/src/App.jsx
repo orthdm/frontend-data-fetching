@@ -1,4 +1,3 @@
-// src/App.jsx
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import useSWR from 'swr';
 import api from './api/client';
